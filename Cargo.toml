@@ -1,0 +1,13 @@
+[package]
+name = "rxst"
+version = "0.0.0"
+authors = ["Chih-Mao Chen <pkmx.tw@gmail.com>"]
+description = "A reactive programming library"
+documentation = "https://pkmx.github.io/rxst/rxst/index.html"
+repository = "https://github.com/pkmx/rxst"
+readme = "README.md"
+keywords = ["reactive", "rx"]
+license = "MIT/Apache-2.0"
+
+[dependencies]
+topological-sort = "0.0.10"
