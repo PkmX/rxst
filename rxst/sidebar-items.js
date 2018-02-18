@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["rx","Construct a Rx from its dependenices."]],"struct":[["RxCell","A reactive cell that can be set."],["RxNode","A reactive value that depends on other Rxs."]],"trait":[["Rx","A value that can change over time."],["Triggerable","A Rx that can be triggered to update its contents and notify its children."]]});
